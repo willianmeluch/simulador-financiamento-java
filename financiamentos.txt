@@ -1,0 +1,4 @@
+Casa,500000.0,20,3.0,Área construída: 42.0m²
+Apartamento,250000.0,3,6.0,Andar: 12
+Casa,750000.0,40,11.0,Área construída: 25.0m²
+Apartamento,800000.0,43,8.0,Andar: 15
